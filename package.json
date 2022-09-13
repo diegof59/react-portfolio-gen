@@ -1,0 +1,20 @@
+{
+  "name": "react-portfolio-gen",
+  "version": "1.0.0",
+  "description": "Minimal portfolio generator using react. Webpack learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegof59/react-portfolio-gen.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "portfolio"
+  ],
+  "author": "diegof59",
+  "license": "ISC"
+}
